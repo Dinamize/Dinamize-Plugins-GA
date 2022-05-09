@@ -1,5 +1,5 @@
 homepage: "https://www.dinamize.com.br/"
 documentation: "https://help.dinamize.com/article/4000182912-como-inserir-o-script-de-integracao-atraves-do-google-tag-manager"
 versions:
-  - sha: 461ffba5d54b9dbd02ae72e678faf473387994fa 
+  - sha: d76595b2b2e049cdb0fe6cd0a89f65bc86e38ab7 
     changeNotes: Versão inicial.
